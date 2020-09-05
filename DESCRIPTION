@@ -1,0 +1,15 @@
+Package: kGulati
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Tanveer",
+           family = "Hurra",
+           role = c("aut", "cre"),
+           email = "tanvirhurra@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Pearls of wisdom from Gulati Sir
+License: `GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
